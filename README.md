@@ -75,11 +75,11 @@
 
 ---
 <p align="center">
-  <img src="https://ghchart.rshah.org/xilele777" alt="年度贡献热力图" width="100%" />
+  <img src="https://ghchart.rshah.org/xilele777" alt="年度贡献热力图" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/xilele777?template=classic&config.timezone=Asia%2FShanghai&plugin.isocalendar=yes&plugin.isocalendar.duration=full-year" width="80%" />
+  <img src="https://metrics.lecoq.io/xilele777?template=classic&config.timezone=Asia%2FShanghai&plugin.isocalendar=yes&plugin.isocalendar.duration=full-year" width="70%" />
 </p>
 
 ## 📫 联系我
