@@ -1,0 +1,45 @@
+name: profile-cards
+
+on:
+  schedule:
+    - cron: "20 1 * * *" # 每天 UTC 01:20 ≈ 北京时间 09:20
+  workflow_dispatch:
+
+permissions:
+  contents: write # GITHUB_TOKEN 默认只读，push 需显式开写
+
+concurrency:
+  group: pr-card
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: 生成 SVG 卡片
+        env:
+          GH_TOKEN: ${{ github.token }}
+          INPUT_USER: xilele777
+          OUTPUT_DIR: profile
+          MAX_REPOS: "8"
+        run: |
+          python3 .github/scripts/generate_pr_card.py
+          python3 .github/scripts/generate_stats_card.py
+
+      - name: 提交并推送
+        run: |
+          # 用 status 而非 git diff，覆盖新增（untracked）和修改两种情况
+          CHANGED=$(git status --porcelain -- profile/)
+          if [ -z "$CHANGED" ]; then
+            echo "卡片无变化，跳过提交"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git commit -m "chore: update profile cards"
+          git push
