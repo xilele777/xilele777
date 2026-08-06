@@ -73,7 +73,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/xilele777" alt="年度贡献热力图" width="90%" />
+  <img src="https://ghchart.rshah.org/xilele777" alt="年度贡献热力图" width="100%" />
 </p>
 
 ## 🤝 开源贡献
@@ -82,7 +82,7 @@
   <a href="https://github.com/pulls?q=author%3Axilele777+is%3Apr">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="profile/pr-contributions-dark.svg">
-      <img src="profile/pr-contributions-light.svg" alt="开源贡献 PR 统计" width="100%" />
+      <img src="profile/pr-contributions-light.svg" alt="开源贡献 PR 统计" width="90%" />
     </picture>
   </a>
 </p>
