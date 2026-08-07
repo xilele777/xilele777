@@ -71,10 +71,6 @@
       <img src="profile/github-stats-light.svg" alt="GitHub 统计" width="100%" />
     </picture>
   </a>
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/xilele777" alt="年度贡献热力图" width="100%" />
-</p>
 
 ## 🤝 开源贡献
 
@@ -85,6 +81,10 @@
       <img src="profile/pr-contributions-light.svg" alt="开源贡献 PR 统计" width="90%" />
     </picture>
   </a>
+</p>
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/xilele777" alt="年度贡献热力图" width="100%" />
 </p>
 
 
