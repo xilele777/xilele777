@@ -5,7 +5,7 @@
 <g transform="translate(42.8 60.0) scale(0.6667)">
 <path d="M16.944 11h4.306a.75.75 0 0 1 0 1.5h-4.306a5.001 5.001 0 0 1-9.888 0H2.75a.75.75 0 0 1 0-1.5h4.306a5.001 5.001 0 0 1 9.888 0Zm-1.444.75a3.5 3.5 0 1 0-7 0 3.5 3.5 0 0 0 7 0Z" fill="#8b949e"/>
 </g>
-<text x="62.8" y="74" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#e6edf3">380</text>
+<text x="62.8" y="74" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#e6edf3">387</text>
 <text x="68.6" y="96" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8b949e">提交数</text>
 <g transform="translate(145.2 60.0) scale(0.6667)">
 <path d="M16 19.25a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0Zm-14.5 0a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0Zm0-14.5a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0ZM4.75 3a1.75 1.75 0 1 0 .001 3.501A1.75 1.75 0 0 0 4.75 3Zm0 14.5a1.75 1.75 0 1 0 .001 3.501A1.75 1.75 0 0 0 4.75 17.5Zm14.5 0a1.75 1.75 0 1 0 .001 3.501 1.75 1.75 0 0 0-.001-3.501Z" fill="#8b949e"/>
@@ -21,7 +21,7 @@
 <g transform="translate(334.2 60.0) scale(0.6667)">
 <path d="M12 .25a.75.75 0 0 1 .673.418l3.058 6.197 6.839.994a.75.75 0 0 1 .415 1.279l-4.948 4.823 1.168 6.811a.751.751 0 0 1-1.088.791L12 18.347l-6.117 3.216a.75.75 0 0 1-1.088-.79l1.168-6.812-4.948-4.823a.75.75 0 0 1 .416-1.28l6.838-.993L11.328.668A.75.75 0 0 1 12 .25Zm0 2.445L9.44 7.882a.75.75 0 0 1-.565.41l-5.725.832 4.143 4.038a.748.748 0 0 1 .215.664l-.978 5.702 5.121-2.692a.75.75 0 0 1 .698 0l5.12 2.692-.977-5.702a.748.748 0 0 1 .215-.664l4.143-4.038-5.725-.831a.75.75 0 0 1-.565-.41L12 2.694Z" fill="#8b949e"/>
 </g>
-<text x="354.2" y="74" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#e6edf3">206</text>
+<text x="354.2" y="74" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#e6edf3">207</text>
 <text x="360.0" y="96" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8b949e">Star 的仓库</text>
 <g transform="translate(441.9 60.0) scale(0.6667)">
 <path d="M8.75 19.25a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0ZM15 4.75a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0Zm-12.5 0a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0ZM5.75 6.5a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 5.75 6.5ZM12 21a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 12 21Zm6.25-14.5a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 18.25 6.5Z" fill="#8b949e"/>
